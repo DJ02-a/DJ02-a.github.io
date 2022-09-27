@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /projects/face_swap_tool/test/
+permalink: /projects/face_swap_tool/test1/
 
 toc: true
 toc_sticky: true
