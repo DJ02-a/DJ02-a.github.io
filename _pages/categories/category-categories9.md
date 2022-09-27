@@ -3,7 +3,7 @@ title: "testing..."
 layout: category
 permalink: /projects/face_swap_tool/
 author_profile: true
-taxonomy: Face Swap Tool
+taxonomy: FaceSwapTool
 sidebar:
   nav: "categories"
 ---
