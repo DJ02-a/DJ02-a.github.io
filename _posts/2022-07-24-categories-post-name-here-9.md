@@ -3,7 +3,7 @@ title: "test1"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - face_swap_tool_testing...
+  - face_swap_tool
 tags:
   - [tag1, tag2]
 
