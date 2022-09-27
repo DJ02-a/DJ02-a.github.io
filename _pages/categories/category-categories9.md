@@ -1,7 +1,7 @@
 ---
 title: "testing..."
 layout: category
-permalink: /projects/face_swap_tool/
+permalink: /projects/faceswaptool/
 author_profile: true
 taxonomy: FaceSwapTool
 sidebar:
