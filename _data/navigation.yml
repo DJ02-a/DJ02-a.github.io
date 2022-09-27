@@ -43,5 +43,5 @@ categories:
 
   - title: "Projects"
     children:
-      - title: "Face Swap Tool"
+      - title: "FaceSwapTool" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
         url: /projects/face_swap_tool/
