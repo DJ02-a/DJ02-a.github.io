@@ -1,9 +1,9 @@
 ---
-title: "77777"
+title: "testing..."
 layout: category
-permalink: /categories/categories7/
+permalink: /projects/face_swap_tool/
 author_profile: true
-taxonomy: Categories7
+taxonomy: face_swap_tool
 sidebar:
   nav: "categories"
 ---

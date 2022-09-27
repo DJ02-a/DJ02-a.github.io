@@ -40,3 +40,8 @@ categories:
     children:
       - title: "Categories7"
         url: /categories/categories7/
+
+  - title: "Projects"
+    children:
+      - title: "Face Swap Tool"
+        url: /projects/face_swap_tool/
