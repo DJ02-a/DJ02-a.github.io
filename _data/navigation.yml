@@ -35,7 +35,7 @@ categories:
   - title: "Papers"
     children:
       - title: "StyleGAN"
-        url: /categories/StyleGAN/
+        url: /categories/StyleGAN/ # 여기에 게시하려면 -> _pages/categories/.md/permalink 랑 맞춰야함
 
   - title: "Projects"
     children:

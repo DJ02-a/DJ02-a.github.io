@@ -1,7 +1,7 @@
 ---
-title: "Papers"
+title: "StyleGAN"
 layout: category
-permalink: /Papers/StyleGAN/
+permalink:  /categories/StyleGAN/
 author_profile: true
 taxonomy: StyleGAN
 sidebar:
