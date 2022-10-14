@@ -3,11 +3,11 @@ title: "[포스팅 예시] 이곳에 제목을 입력하세요"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - Papers
+  - StyleGAN
 tags:
   - [tag1, tag2]
 
-permalink: /Papers/StyleGAN2-ADA/
+permalink: /StyleGAN/StyleGAN2-ADA/
 
 toc: true
 toc_sticky: true
