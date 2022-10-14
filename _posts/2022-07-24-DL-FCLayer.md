@@ -1,13 +1,13 @@
 ---
-title: "test2"
+title: "Full Connected Layer"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - faceswaptool
+  - DL
 tags:
   - [tag1, tag2]
 
-permalink: /faceswaptool/test2/
+permalink: /DL/FCLayer/
 
 toc: true
 toc_sticky: true
