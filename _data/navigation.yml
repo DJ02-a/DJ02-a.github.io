@@ -39,5 +39,5 @@ categories:
 
   - title: "Projects"
     children:
-      - title: "Face_Design" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
-        url: /projects/Face_Design/
+      - title: "Face Design" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
+        url: /projects/FaceDesign/
