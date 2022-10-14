@@ -18,28 +18,24 @@ main:
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
-  - title: "Title1"
+  - title: "Code"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "Python"
+        url: /categories/Python/
+      - title: "Pytorch"
+        url: /categories/Pytorch/
 
-  - title: "Title2"
+  - title: "ML / DL"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
-      - title: "Categories6"
-        url: /categories/categories6/
+      - title: "ML"
+        url: /categories/ML/
+      - title: "DL"
+        url: /categories/DL/
 
-  - title: "Title3"
+  - title: "Papers"
     children:
-      - title: "Categories7"
-        url: /categories/categories7/
+      - title: "StyleGAN"
+        url: /categories/StyleGAN/
 
   - title: "Projects"
     children:

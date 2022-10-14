@@ -1,9 +1,9 @@
 ---
-title: "33333"
+title: "ML / DL"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/DL/
 author_profile: true
-taxonomy: Categories3
+taxonomy: DL
 sidebar:
   nav: "categories"
 ---

@@ -1,9 +1,9 @@
 ---
-title: "77777"
+title: "Papers..."
 layout: category
-permalink: /categories/categories7/
+permalink: /projects/StyleGAN/
 author_profile: true
-taxonomy: Categories7
+taxonomy: StyleGAN
 sidebar:
   nav: "categories"
 ---
