@@ -35,9 +35,9 @@ categories:
   - title: "Papers"
     children:
       - title: "StyleGAN"
-        url: /categories/StyleGAN/ # 여기에 게시하려면 -> _pages/categories/.md/permalink 랑 맞춰야함
+        url: /categories/StyleGAN/ # 여기에 게시하려면 -> _pages/categories/.md/permalink 랑 뒤랑 맞춰야함
 
   - title: "Projects"
     children:
-      - title: "FaceSwapTool" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
-        url: /projects/faceswaptool/
+      - title: "Face_Design" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
+        url: /projects/Face_Design/

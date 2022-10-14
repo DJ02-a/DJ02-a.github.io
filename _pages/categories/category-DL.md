@@ -1,5 +1,5 @@
 ---
-title: "ML / DL"
+title: "DL"
 layout: category
 permalink: /categories/DL/
 author_profile: true
