@@ -3,11 +3,11 @@ title: "Dataset 준비"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - Face_Design
+  - FaceDesign
 tags:
   - [tag1, tag2]
 
-permalink: /Face_Design/Dataset/
+permalink: /FaceDesign/Dataset/
 
 toc: true
 toc_sticky: true
