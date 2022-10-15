@@ -140,10 +140,10 @@ tmux kill-session -t {session name}
 
 # 5. Reference
     
-    [Linux : Tmux 설치, 사용하는 방법, 예제, 명령어](https://jjeongil.tistory.com/1361)
-    
-    [tmux 입문자 시리즈 요약](https://edykim.com/ko/post/tmux-introductory-series-summary/)
-    
-    [tmux 설치 및 적응기](https://bossm0n5t3r.github.io/posts/74/)
-    
-    [터미널 화면분할 Tmux 쉽게 사용하기](https://velog.io/@suasue/Ubuntu-%ED%84%B0%EB%AF%B8%EB%84%90-%ED%99%94%EB%A9%B4%EB%B6%84%ED%95%A0-Tmux-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+[Linux : Tmux 설치, 사용하는 방법, 예제, 명령어](https://jjeongil.tistory.com/1361)
+
+[tmux 입문자 시리즈 요약](https://edykim.com/ko/post/tmux-introductory-series-summary/)
+
+[tmux 설치 및 적응기](https://bossm0n5t3r.github.io/posts/74/)
+
+[터미널 화면분할 Tmux 쉽게 사용하기](https://velog.io/@suasue/Ubuntu-%ED%84%B0%EB%AF%B8%EB%84%90-%ED%99%94%EB%A9%B4%EB%B6%84%ED%95%A0-Tmux-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)

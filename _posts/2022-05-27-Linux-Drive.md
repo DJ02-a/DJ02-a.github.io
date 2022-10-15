@@ -15,8 +15,8 @@ permalink: /Linux/storage-device/
 toc: true
 toc_sticky: true
 
-date: 2022-07-14
-last_modified_at: 2022-07-14
+date: 2022-05-27
+last_modified_at: 2022-05-27
 ---
 
 # 1. 저장 장치
@@ -48,7 +48,7 @@ last_modified_at: 2022-07-14
 
 - exFAT : 안정성이 떨어지기 때문에 언마운트 잘 하기
 
-<img src="/assets/images/posts_img/2022-07-14-Linux-Drive/1.table.png">
+<img src="/assets/images/posts_img/2022-05-27-Linux-Drive/1.table.png">
 
 # 2. 저장 공간
 
