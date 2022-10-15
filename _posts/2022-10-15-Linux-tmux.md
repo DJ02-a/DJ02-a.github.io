@@ -8,7 +8,7 @@ categories:
   - server
 
 tags:
-  - [tmux, server]
+  - [tmux]
   - [server]
 
 permalink: /Linux/tmux/
