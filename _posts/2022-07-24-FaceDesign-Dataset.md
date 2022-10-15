@@ -1,11 +1,15 @@
 ---
 title: "Tmux"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+excerpt: "tmux의 설치 방법 및 이용방법 설명"
 
 categories:
   - Linux
+  - tmux
+  - server
+
 tags:
   - [tmux, server]
+  - [server]
 
 permalink: /Linux/tmux/
 
@@ -16,7 +20,7 @@ date: 2022-10-15
 last_modified_at: 2022-10-15
 ---
 
-# tmux
+# Tmux
 
 Tmux는 GNU Screen의 대안인 터미널 멀티플렉서입니다. 즉, Tmux 세션을 시작한 다음 해당 세션 내에서 여러 창을 열 수 있습니다. 각 창은 전체 화면을 차지하며 직사각형 창으로 분할할 수 있습니다.
 
@@ -46,14 +50,14 @@ sudo yum install tmux
 brew install tmux
 ```
 
-# 2. tmux 구성
+# 2. Tmux 구성
 
 - session : tmux 실행 단위. 여러개의 window로 구성.
 - window : 터미널 화면. 세션 내에서 탭처럼 사용할 수 있음.
 - pane : 하나의 window 내에서 화면 분할.
 - status bar : 화면 아래 표시되는 상태 막대.
 
-'''  
+```
 [ Tree ]  
 +--- session  
 |    +--- window 1  
@@ -61,11 +65,11 @@ brew install tmux
 |      +--- pane 2  
 |    +--- window 2  
 |      +---pane 1  
-'''
+```
 
 # 3. 명령어 정리
 
-## 3.1. base
+## 3.1. Base
 
 tmux에서 명령어를 사용하기 위해서는 항상 
 
@@ -81,9 +85,9 @@ ctrl + b, < key >
 ctrl + b, :
 ```
 
-## 3.2. commands
+## 3.2. Commands
 
-### 1) tmux session 시작과 종료
+### 1) Tmux session 시작과 종료
 
 ```bash
 # tmux 세션 시작
