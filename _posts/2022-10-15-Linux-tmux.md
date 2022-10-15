@@ -138,7 +138,7 @@ tmux kill-session -t {session name}
 
 [https://github.com/tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
 
-- Reference
+# 5. Reference
     
     [Linux : Tmux 설치, 사용하는 방법, 예제, 명령어](https://jjeongil.tistory.com/1361)
     
