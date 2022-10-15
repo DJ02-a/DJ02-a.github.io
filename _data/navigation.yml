@@ -20,6 +20,8 @@ main:
 categories:
   - title: "Code"
     children:
+      - title: "Linux"
+        url: /categories/Linux/
       - title: "Python"
         url: /categories/Python/
       - title: "Pytorch"
@@ -39,5 +41,7 @@ categories:
 
   - title: "Projects"
     children:
-      - title: "Face Design" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
+      - title: "FaceDesign" # 이게 최초 화면 줄 만들어 주는거?(띄어쓰기 ㄴ)
         url: /categories/FaceDesign/
+
+# title / url / categories / taxonomy / permalink 통일 시켜야 한다.
