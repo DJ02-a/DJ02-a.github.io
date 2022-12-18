@@ -1,6 +1,6 @@
 ---
 title: "Display UI"
-excerpt: "ssh 원격 접송 상태에서 UI를 띄어본다."
+excerpt: "ssh 원격 접속 상태에서 UI를 띄어본다."
 
 categories:
   - Linux
