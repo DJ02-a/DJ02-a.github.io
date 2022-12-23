@@ -79,17 +79,13 @@ if __name__ == "__main__":
     p.start()
 ```
 
-- Reference
-    
-
-
 ## 1.3. Pool
 
-- Reference
+Reference
     
-    [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
-    
-    [파이썬(Python) - multiprocessing(멀티프로세싱) 설명 및 예제(1) - Pool](https://niceman.tistory.com/145)
+[An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
+
+[파이썬(Python) - multiprocessing(멀티프로세싱) 설명 및 예제(1) - Pool](https://niceman.tistory.com/145)
     
 
 # 2. Parmap
