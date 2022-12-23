@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-10-18
-last_modified_at: 2022-12-18
+last_modified_at: 2022-12-28
 ---
 
 
@@ -26,7 +26,7 @@ last_modified_at: 2022-12-18
 - tensor 자료형은 CPU tensor와 GPU tensor로 구분된다.
 - default tensor : torch.FloatTensor
 
-<img src="/assets/images/posts_img/2022-12-18-Pytorch-Pytorch-basic/1.type.png">
+<img src="/assets/images/posts_img/2022-10-18-Pytorch-Pytorch-basic/1.type.png">
 
 ```python
 # CPU tensor
@@ -263,7 +263,7 @@ with torch.no_grad():
 
 **requires_grad vs torh.no_gard()**
 
-<img src="/assets/images/posts_img/2022-12-18-Pytorch-Pytorch-basic/2.grad.png">
+<img src="/assets/images/posts_img/2022-10-18-Pytorch-Pytorch-basic/2.grad.png">
 
 model A를 업데이트 하고 model B는 업데이트하지 않기 위해서는 model B 에서 gradient를 계산은 하되  업데이트 하지 않아야 하고, model A까지 역전파는 도달해야 한다.
 
@@ -817,7 +817,7 @@ train skill 에서 설명한다.
 
 하나의 프로세스에서 다른 프로세스로 데이터를 전송하는 것. 지점간 통신을 위해서 `send`, `recv` 함수 또는 즉시 응답하는 `isend` 와 `irecv` 함수를 사용한다.
 
-<img src="/assets/images/posts_img/2022-12-18-Pytorch-Pytorch-basic/3.p2p.png">
+<img src="/assets/images/posts_img/2022-10-18-Pytorch-Pytorch-basic/3.p2p.png">
 
 [ send ]
 
@@ -908,7 +908,7 @@ torch.distributed.irecv(tensor, src, group, tag)
         
         `dist.all_reduce(tensor, op, group)`
         
-<img src="/assets/images/posts_img/2022-12-18-Pytorch-Pytorch-basic/4.communication.png">
+<img src="/assets/images/posts_img/2022-10-18-Pytorch-Pytorch-basic/4.communication.png">
 
 [ all reduce ]
 
